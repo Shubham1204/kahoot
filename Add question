@@ -1,0 +1,14 @@
+{
+    "add_question": 
+        {
+            "Question_name": "cam",
+            "Option_1": "pdf",
+            "Option_2": "hdhd",
+            "Option_3": "hdh",
+            "Option_4": "ghdh",
+            "Correc_Option": "4",
+            "Time": "15",
+            "Ponts": "physical"
+
+        }
+}
